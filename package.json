@@ -50,7 +50,7 @@
     "diff": "4.0.2",
     "escape-string-regexp": "1.0.5",
     "find-up": "4.1.0",
-    "glob": "7.1.6",
+    "glob": "^7.1.7",
     "growl": "1.10.5",
     "he": "1.2.0",
     "js-yaml": "^3.14.1",
